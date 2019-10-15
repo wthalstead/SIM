@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Tweets by AZFire</title>
+
+</head>
+
+<body>
+
+<p>
+
+<a class="twitter-timeline"  href="https://twitter.com/search?q=from%3Aazstateforestry%20OR%20from%3AAzEIN%20OR%20from%3ABLMAZFire%20%20OR%20from%3AwildlandfireAZ%20%20OR%20from%3ASWCCNewsNotes%20%20%20OR%20from%3ANPSFireSW" data-widget-id="Your Widget Key ID">Tweets by AZFire</a> 
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</p>
+
+</body>
+
+</html>          
